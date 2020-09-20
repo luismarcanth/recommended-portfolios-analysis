@@ -472,7 +472,6 @@
 				"WEGE3":0.1
 			}
 		},
-		},
 		"2020-09-01":{
 			"sources":[
 				"https://www.youtube.com/watch?v=Q1Ks0Sa5qok"
@@ -489,7 +488,7 @@
 				"VVAR3":0.1,
 				"WEGE3":0.1
 			}
-		},
+		}
 	},
 	"BB Investimentos":{
 		"2020-01-01":{
