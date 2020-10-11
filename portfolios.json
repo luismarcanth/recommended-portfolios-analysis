@@ -152,6 +152,23 @@
 				"CYRE3":0.10,
 				"OIBR3":0.05
 			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://www.btgpactualdigital.com/wp-content/uploads/2020/10/BTG-10SIM-OUT20.pdf"
+			],
+			"portfolio":{
+				"VALE3":0.15,
+				"PETR4":0.10,
+				"MGLU3":0.10,
+				"GGBR4":0.10,
+				"B3SA3":0.10,
+				"TIMP3":0.10,
+				"CCRO3":0.10,
+				"DTEX3":0.10,
+				"CYRE3":0.10,
+				"OIBR3":0.05
+			}
 		}
 	},
 	"XP Investimentos":{
@@ -333,6 +350,24 @@
 				"VIVA3":0.1,
 				"VVAR3":0.1
 			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://conteudos.xpi.com.br/acoes/carteiras/top-10-acoes-xp-outubro-de-2020/",
+				"https://twitter.com/xpinvestimentos/status/1311652082584174594"
+			],
+			"portfolio":{
+				"B3SA3":0.1,
+				"BBAS3":0.1,
+				"GGBR4":0.1,
+				"OMGE3":0.1,
+				"LWSA3":0.1,
+				"LAME4":0.1,
+				"MRFG3":0.1,
+				"VALE3":0.1,
+				"VIVA3":0.1,
+				"VVAR3":0.1
+			}
 		}
 	},
 	"Nova Futura":{
@@ -474,13 +509,30 @@
 		},
 		"2020-09-01":{
 			"sources":[
-				"https://www.youtube.com/watch?v=Q1Ks0Sa5qok"
+				"https://www.youtube.com/watch?v=h0iaVHhgl5k"
 			],
 			"portfolio":{
 				"B3SA3":0.1,
 				"BBDC4":0.1,
 				"CSAN3":0.1,
 				"CYRE3":0.1,
+				"GGBR4":0.1,
+				"MGLU3":0.1,
+				"PETR4":0.1,
+				"VALE3":0.1,
+				"VVAR3":0.1,
+				"WEGE3":0.1
+			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://www.youtube.com/watch?v=kPPpkuBjudI"
+			],
+			"portfolio":{
+				"B3SA3":0.1,
+				"CSAN3":0.1,
+				"CYRE3":0.1,
+				"EGIE3":0.1,
 				"GGBR4":0.1,
 				"MGLU3":0.1,
 				"PETR4":0.1,
@@ -643,6 +695,23 @@
 				"VVAR3":0.1,
 				"VALE3":0.1
 			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://www.youtube.com/watch?v=5svL3skDVEU"
+			],
+			"portfolio":{
+				"BBDC4":0.1,
+				"MRFG3":0.1,
+				"TAEE11":0.1,
+				"LCAM3":0.1,
+				"VALE3":0.1,
+				"VVAR3":0.1,
+				"CYRE3":0.1,
+				"RAPT4":0.1,
+				"SANB11":0.1,
+				"YDUQ3":0.1
+			}
 		}
 	},
 	"Safra":{
@@ -677,7 +746,7 @@
 			],
 			"portfolio":{
 				"MRVE3": 0.03,
-				"PCAR4": 0.05,
+				"PCAR3": 0.05,
 				"BRFS3": 0.05,
 				"LREN3": 0.04,
 				"MGLU3": 0.06,
@@ -706,7 +775,7 @@
 				"BBDC4":0.10,
 				"BBAS3":0.10,
 				"B3SA3":0.05,
-				"PCAR4":0.05,
+				"PCAR3":0.05,
 				"RENT3":0.03,
 				"MGLU3":0.04,
 				"PETR4":0.16,
@@ -874,6 +943,31 @@
 				"CCRO3":0.06,
 				"TIMP3":0.04
 			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://www.safra.com.br/data/files/D3/06/ED/7D/D9805710A3C9E327E03EF9C2/Outubro%20-%20Carteira%20Recomendada.PDF"
+			],
+			"portfolio":{
+				"BBDC4":0.07,
+				"BBAS3":0.09,
+				"SANB11":0.04,
+				"B3SA3":0.05,
+				"BBSE3":0.04,
+				"VVAR3":0.07,
+				"PETR4":0.13,
+				"BRAP4":0.05,
+				"VALE3":0.03,
+				"GGBR4":0.05,
+				"IGTA3":0.04,
+				"CESP6":0.05,
+				"EGIE3":0.05,
+				"HAPV3":0.06,
+				"PARD3":0.05,
+				"TGMA3":0.03,
+				"CCRO3":0.06,
+				"TIMP3":0.04
+			}
 		}
 	},
 	"Toro Investimentos":{
@@ -983,6 +1077,18 @@
 				"BBDC4":0.2,
 				"GOAU4":0.2,
 				"LCAM3":0.2
+			}
+		},
+		"2020-10-01":{
+			"sources":[
+				"https://www.youtube.com/watch?v=7HGRApuBcJY"
+			],
+			"portfolio":{
+				"ABEV3":0.2,
+				"CSNA3":0.2,
+				"DTEX3":0.2,
+				"MGLU3":0.2,
+				"WEGE3":0.2
 			}
 		}
 	}
